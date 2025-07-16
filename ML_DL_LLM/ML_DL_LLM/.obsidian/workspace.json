@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "38131e7a4e182a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "ada1fc87cfa63a37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b072675d3af1f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/7. Neural Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Neural Network"
+            }
+          },
+          {
+            "id": "15c440431fe2868e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ML Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML Fundamentals"
+            }
+          },
+          {
+            "id": "d6848bb1e1b98888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ML Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML Fundamentals"
+            }
+          },
+          {
+            "id": "2f5e2f902fd1b90e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Features & Dataset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Features & Dataset"
+            }
+          },
+          {
+            "id": "29f43c86f58e768c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/2. KNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. KNN"
+            }
+          },
+          {
+            "id": "11a82ac5f34a2f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/5. Logistic Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Logistic Regression"
+            }
+          },
+          {
+            "id": "883b7041d66c1515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/6. Support Vector Machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Support Vector Machines"
+            }
+          },
+          {
+            "id": "9336f52ca324759b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Features & Dataset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Features & Dataset"
+            }
+          },
+          {
+            "id": "a2c5b64164b034d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL/7. Neural Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Neural Network"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04b0f6c2842b39bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcec59b934358533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bfc2b4e700ab9ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a63fe6e3fde1afb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d76f9f4817b2e746",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "43834febc08fdcc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1df9444fde3f729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85fedf0ace6d4843",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "0610641e9f1985a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "d9177f5eb2a2070a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c423298043c729a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7b072675d3af1f53",
+  "lastOpenFiles": [
+    "ML/4. Linear Regression.md",
+    "ML/Features & Dataset.md",
+    "DL/7. Neural Network.md",
+    "ML/8. Unsupervised Learning.md",
+    "ML/2. KNN.md",
+    "ML/3. Naive Bayes.md",
+    "ML/5. Logistic Regression.md",
+    "ML/6. Support Vector Machines.md",
+    "ML/1. Machine Learning.md",
+    "Notebooks/1..md",
+    "Notebooks",
+    "DL",
+    "ML/Features.md",
+    "ML/ML Fundamentals.md",
+    "ML/Notebooks/2. Logistic Regression.ipynb",
+    "ML/Notebooks/Untitled.ipynb",
+    "Welcome.md",
+    "ML/Notebooks/Datasets/Advertising.csv",
+    "ML/Notebooks/Advertising.csv",
+    "ML/Notebooks/Datasets",
+    "ML/Notebooks/untitled folder",
+    "untitled folder",
+    "ML/Notebooks/1. Linear Regression.ipynb"
+  ]
+}
